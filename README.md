@@ -1,5 +1,6 @@
-### Hi i'm Affal
+# Hi i'm Affal
 
+![photo-1519744792095-2f2205e87b6f](https://user-images.githubusercontent.com/62225185/214910307-009bd212-c13d-477b-810e-2bb3560a73a8.jpg)
 
 
 <!--
