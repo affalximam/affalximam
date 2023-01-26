@@ -1,4 +1,4 @@
-<h1 align="center"> 𝓐𝓕𝓕𝓐𝓛𝓧𝓘𝓜𝓐𝓜 </h1>
+<h1 align="center"> 𝒜𝐹𝐹𝒜𝐿𝒳𝐼𝑀𝒜𝑀 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ffffff&pause=500&size=25&center=false&vCenter=true&width=900&height=50&lines=Hello+My+Name+is+Affal;I+Just+A+Country+Person,+But+I'm+Happy;I'm+likes+Programing,+Design,+and+Cybersecurity.;I+Like+to+play+CTF+Game+and+Doing+Security+Testing.;I+also+Like+Web+Development.;;">
 
