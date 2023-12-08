@@ -8,10 +8,11 @@
 
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&theme=transparent" alt="AFFALXIMAM streak stats"/> <br>
 
-<div style="display: flex; align-items: stretch; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="affalximam's Stats" style="flex: 1; margin-right: 20px; max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="affalximam's Top Languages" style="flex: 1; max-width: 100%;">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
+
 
 
 
