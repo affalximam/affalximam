@@ -9,4 +9,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=affalximam&theme=transparent)](https://github.com/affalximam/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&layout=compact&theme=transparent" height=195 />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
