@@ -5,6 +5,6 @@
 <img style="width: 100%;" src="https://user-images.githubusercontent.com/62225185/214911704-8a82a018-078d-4ad9-86ca-43280502d0a0.png">
 
 ### GitHub Stats
-<img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&background=2E3440" alt="AFFALXIMAM streak stats"/> <br><br>
+<img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&theme=transparent" alt="AFFALXIMAM streak stats"/> <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=affalximam)](https://github.com/affalximam/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&layout=compact" height=195 />
