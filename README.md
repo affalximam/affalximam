@@ -7,4 +7,4 @@
 ### GitHub Stats
 <img align="center" width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&theme=transparent" alt="AFFALXIMAM streak stats"/> <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=affalximam)](https://github.com/affalximam/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&layout=compact" height=195 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&layout=compact&theme=transparent" height=195 />
