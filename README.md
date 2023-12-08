@@ -8,4 +8,4 @@
 
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&theme=transparent" alt="AFFALXIMAM streak stats"/> <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 40%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 40%;">
+<img src="https://github-readme-stats.vercel.app/api?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 50%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affalximam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 50%;">
