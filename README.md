@@ -4,6 +4,8 @@
 
 <img style="width: 100%;" src="https://user-images.githubusercontent.com/62225185/214911704-8a82a018-078d-4ad9-86ca-43280502d0a0.png">
 
+<img style="width: 100%;" src="[https://user-images.githubusercontent.com/62225185/214911704-8a82a018-078d-4ad9-86ca-43280502d0a0.png](https://github.com/affalximam/affalximam/assets/62225185/cdb4217d-00fe-493e-9a19-22dd5157611a)">
+
 <h2 align="center">GitHub Stats</h2>
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=affalximam&theme=react&fire=FFF&ring=skyblue&currStreakLabel=skyblue&sideNums=skyblue&currStreakNum=skyblue&sideLabels=FFF&hide_border=true&theme=transparent" alt="AFFALXIMAM streak stats"/>
 
